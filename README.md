@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Kanishka
+  ### Hi there! 👋 I'm Kanishka
 
 I'm a Computer Science student at VIT Bhopal, passionate about Software Development. My interest lies in mastering Data Structures, Algorithms, and Object-Oriented Programming, with a focus on building efficient and scalable applications.
 
@@ -9,7 +9,14 @@ I'm a Computer Science student at VIT Bhopal, passionate about Software Developm
 
 ---
 
+---
+
 #### My Projects:
-* [Link to your first project repository] - A brief description of what this project does.
-* [Link to your second project repository] - Another brief description.
+
+* **[Java Command-Line To-Do List](https://github.com/Kanishka0308-05/JavaToDoApp)**
+    * A console-based Java application for managing tasks (add, view, complete, delete) with persistent data storage using file I/O.
+
+* **[Java Mood Tracker](https://github.com/Kanishka0308-05/MoodTracker)**
+    * A Java application for tracking daily moods, featuring data persistence through integration with a MySQL database using JDBC.
+
 ---
