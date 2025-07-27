@@ -5,7 +5,7 @@ I'm a Computer Science student at VIT Bhopal, passionate about Software Developm
 - 🎓 **Education:** B.Tech in Computer Science from VIT Bhopal (Expected 2027)
 - 💻 **Skills:** Java, Data Structures, Algorithms, Object-Oriented Programming (OOP), Git
 - 🌱 I’m currently learning more about [UI designing].
-- 📫 You can connect with me on [(https://www.linkedin.com/in/kanishka-kanishka-192468290/)].
+- 📫 You can connect with me on [https://www.linkedin.com/in/kanishka-kanishka-192468290/].
 
 ---
 
