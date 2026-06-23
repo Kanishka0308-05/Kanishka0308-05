@@ -9,8 +9,6 @@ I'm a Computer Science student at VIT Bhopal, passionate about Software Developm
 
 ---
 
----
-
 #### My Projects:
 
 * **[Java Command-Line To-Do List](https://github.com/Kanishka0308-05/JavaToDoApp)**
