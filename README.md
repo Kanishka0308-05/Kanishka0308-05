@@ -1,138 +1,55 @@
-<h1 align="center">
-Hi 👋 I'm Kanishka
-</h1>
+# Hi there! 👋 I'm Kanishka
 
-<h3 align="center">
-Java Backend Developer • Spring Boot Learner • AI Enthusiast
-</h3>
+I'm a Computer Science student at **VIT Bhopal**, passionate about **Software Development**. My interests lie in mastering **Data Structures, Algorithms, and Object-Oriented Programming**, while building efficient, scalable, and AI-powered applications.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&color=00F7FF&lines=Computer+Science+Student+at+VIT+Bhopal;Java+Backend+Developer;Learning+Spring+Boot+%26+System+Design;DSA+%7C+AI+Projects+%7C+Open+Source;Building+Projects+Every+Day+🚀"/>
-</p>
+- 🎓 **Education:** B.Tech in Computer Science, VIT Bhopal (Expected 2027)
+- 💻 **Skills:** Java, Data Structures, Algorithms, Object-Oriented Programming (OOP), Git, JDBC, MySQL, Basic AI Integration
+- 🌱 I'm currently learning more about **UI Designing** and **AI-powered Applications**.
+- 📫 Connect with me on **LinkedIn:** https://www.linkedin.com/in/kanishka-kanishka-192468290/
 
 ---
 
-# 💫 About Me
+## 🚀 My Projects
 
-🎓 Computer Science Student at **VIT Bhopal** (Expected 2027)
+### 📝 Java Command-Line To-Do List
+**Repository:** https://github.com/Kanishka0308-05/JavaToDoApp
 
-💻 Passionate about
+A console-based Java application for managing daily tasks with persistent file storage.
 
-- Java
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Backend Development
-- Artificial Intelligence
-
-🌱 Currently Learning
-
-- Spring Boot
-- Docker
-- System Design
-- UI Designing
-
-⚡ Goal
-
-Become a Java Backend Engineer building scalable applications.
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,idea,vscode,python,html,css"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kanishka0308-05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishka0308-05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kanishka0308-05&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Job Agent
-
-AI-powered job search assistant that recommends relevant jobs, matches resumes, and streamlines the application process.
-
-🔗 https://github.com/Kanishka0308-05/AI-Job-Agent
-
----
-
-### 📝 Java To-Do List
-
-Console-based Java application using File I/O.
-
-✔ Add Tasks
-
-✔ Delete Tasks
-
-✔ Complete Tasks
-
-✔ Persistent Storage
-
-🔗 https://github.com/Kanishka0308-05/JavaToDoApp
+**Features:**
+- ➕ Add tasks
+- 📋 View tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 💾 File I/O for data persistence
 
 ---
 
 ### 😊 Java Mood Tracker
+**Repository:** https://github.com/Kanishka0308-05/MoodTracker
 
-Java + MySQL + JDBC
+A Java application that helps users track their daily moods using a MySQL database.
 
-Store daily moods inside MySQL.
-
-Track mood history.
-
-🔗 https://github.com/Kanishka0308-05/MoodTracker
-
----
-
-# 📚 Currently Working On
-
-✅ LeetCode Daily
-
-✅ Spring Boot Projects
-
-✅ Backend Development
-
-✅ AI-powered Applications
+**Features:**
+- 😊 Record daily moods
+- 🗃️ Store data in MySQL
+- 🔌 JDBC integration
+- 📊 Maintain mood history
 
 ---
 
-# 🌐 Connect With Me
+### 🤖 AI Job Agent
+**Repository:** https://github.com/Kanishka0308-05/AI-Job-Agent
 
-<p align="center">
+An AI-powered job search assistant that helps users discover relevant job opportunities, streamline the application process, and improve job search efficiency using intelligent automation.
 
-<a href="https://www.linkedin.com/in/kanishka-kanishka-192468290/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+**Features:**
+- 🔍 AI-powered job recommendations
+- 📄 Resume and profile matching
+- 🤖 Intelligent job search assistance
+- 📊 Job tracking and management
+- ⚡ Streamlined application workflow
 
 ---
 
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+⭐ **I'm always exploring new technologies, solving Data Structures & Algorithms problems, and building projects that improve my software development skills.**
