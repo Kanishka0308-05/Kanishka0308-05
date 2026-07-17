@@ -50,6 +50,6 @@ An AI-powered job search assistant that helps users discover relevant job opport
 - 📊 Job tracking and management
 - ⚡ Streamlined application workflow
 
----
+
 
 ⭐ **I'm always exploring new technologies, solving Data Structures & Algorithms problems, and building projects that improve my software development skills.**
