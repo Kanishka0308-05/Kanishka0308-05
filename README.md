@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Kanishka
 
+
 I'm a Computer Science student at **VIT Bhopal**, passionate about **Software Development**. My interests lie in mastering **Data Structures, Algorithms, and Object-Oriented Programming**, while building efficient, scalable, and AI-powered applications.
 
 - 🎓 **Education:** B.Tech in Computer Science, VIT Bhopal (Expected 2027)
